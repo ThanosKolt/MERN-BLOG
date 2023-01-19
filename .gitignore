@@ -1,0 +1,6 @@
+# server
+/server/notes.txt
+/server/node_modules
+/server/.env
+#client
+/client/node_modules
